@@ -3,7 +3,7 @@ Thanks for checking out my GitHub! Below are some projects I'm proud of (in part
 
 ### Contact/Links
 [LinkedIn](https://www.linkedin.com/in/andy-ehrhardt/)
-[Email](andyehrhardt@gmail.com)
+         [Email](andyehrhardt@gmail.com)
 
 
 
