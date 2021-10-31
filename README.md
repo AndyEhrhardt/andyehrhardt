@@ -2,8 +2,8 @@
 Thanks for checking out my GitHub! Below are some projects I'm proud of (in particular I reccomend looking at "BopBroker")
 
 ### Contact/Links
-[LinkedIn](https://www.linkedin.com/in/andy-ehrhardt/)
-         [Email](andyehrhardt@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/andy-ehrhardt/)                                                                                                                                        
+[Email](andyehrhardt@gmail.com)
 
 
 
