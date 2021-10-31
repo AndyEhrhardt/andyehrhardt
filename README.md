@@ -5,7 +5,9 @@ Thanks for checking out my GitHub! Below are some projects I'm proud of (in part
 [LinkedIn](https://www.linkedin.com/in/andy-ehrhardt/)                                                                                                                                        
 [Email](andyehrhardt@gmail.com)
 
+## Stats
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andyehrhardt&show_icons=true)
 
 
 
